@@ -1,4 +1,4 @@
-# Data_Projects
+# R portfolio
 In this project we analyse and predict housing value in a volatile market over a four years window.
 The dataset is from kaggle.com, including the characteristics of sold houses and the microeconomics indexes.
 While cleaning the data, we use ggplot to plot variables, making 24 graphs (including one interactive plot).
